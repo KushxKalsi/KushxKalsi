@@ -29,7 +29,7 @@
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KushxKalsi&show_icons=true&theme=merko" width="49%" height="300px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushxKalsi&layout=compact&theme=merko" width="45%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushxKalsi&layout=compact&theme=merko" width="49%" height="190px"/>
 </p>
 
 ---
