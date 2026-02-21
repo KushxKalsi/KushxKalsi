@@ -39,4 +39,6 @@
 ### Visitor Count
 <img src="https://komarev.com/ghpvc/?username=KushxKalsi&label=Profile+views&color=0e75b6&style=flat" alt="KushxKalsi" />
 
+<img src="https://raw.githubusercontent.com/KushxKalsi/KushxKalsi/output/github-contribution-grid-snake-dark.svg" alt="snake-contributions-last-year" />
+
 ⭐ Star, fork or follow if you like my work — it motivates me!
